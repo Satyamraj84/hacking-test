@@ -1,6 +1,6 @@
 # github使用指南
 ## fork和pull request
-首先访问ukui/hacking-test项目，地址[如下](https://github.com/ukui/hacking-test.git) 。来到项目主页后可以看到项目中已经有一个hello-ukui.cc项目，现在我们要做的是fork该项目。点击项目右上角的fork按钮，会弹出如下对话框
+First visit the ukui/hacking-test project, the address is [as follows](https://github.com/ukui/hacking-test.git).  After coming to the project homepage, you can see that there is already a hello-ukui.cc project in the project, and what we have to do now is to fork the project.  Click the fork button in the upper right corner of the project, and the following dialog box will pop up
 ![](https://raw.githubusercontent.com/readlnh/picture/master/hacking-test1.png) 
 点击自己的用户名，github就会将项目克隆到自己的账户下。
 ![](https://raw.githubusercontent.com/readlnh/picture/master/hacking-test2.png) 
